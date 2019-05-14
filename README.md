@@ -4,12 +4,13 @@ In this challenge, you will start with an array initialized to zeros with indexe
 
 For example, start with an array of 5 elements: [0, 0, 0, 0, 0].  The variables a and b represent the starting and ending indexes inclusive.  Another variable k is the addend.  The first element is at index 1.
 
+```
    a    b    k             list
                   [  0,  0,  0,  0,  0]
    1    2   10    [ 10, 10,  0,  0,  0]
    2    4    5    [ 10, 15,  5,  5,  0]
    3    5   12    [ 10, 15, 17, 17, 12]
-
+```
 
 The maximum value in the resultant array is 17. That is the value to be determined.
 
